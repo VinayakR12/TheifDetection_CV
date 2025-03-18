@@ -9,7 +9,7 @@
 
 <p align="center">  
   <video width="80%" autoplay loop muted controls>  
-    <source src="content/Contentinvideo-ai-1080 AI-Powered Thief Detection_ Smarter Secu 2025-02-19 - COMPRESS_20250318_215633.mp4" type="video/mp4">  
+    <source src="Content/invideo-ai-1080 AI-Powered Thief Detection_ Smarter Secu 2025-02-19 - COMPRESS_20250318_215633.mp4" type="video/mp4">  
     Your browser does not support the video tag.  
   </video>  
 </p>  
