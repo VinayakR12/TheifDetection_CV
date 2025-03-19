@@ -8,10 +8,7 @@
 ## 🎥 **Live Demo** (Auto-Playing Video)  
 
 <p align="center">  
-  <video width="80%" autoplay loop muted controls>  
-    <source src="Content/invideo-ai-1080 AI-Powered Thief Detection_ Smarter Secu 2025-02-19 - COMPRESS_20250318_215633.mp4" type="video/mp4">  
-    Your browser does not support the video tag.  
-  </video>  
+ [🎬 Watch the Video](https://github.com/VinayakR12/TheifDetection_CV/releases/download/ComputerVisiom/Theif_Detection_CV.mp4)
 </p>  
 
 ---  
