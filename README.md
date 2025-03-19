@@ -7,9 +7,9 @@
 
 ## 🎥 **Live Demo** (Auto-Playing Video)  
 
-<p align="center">  
- [🎬 Watch the Video](https://github.com/VinayakR12/TheifDetection_CV/releases/download/ComputerVisiom/Theif_Detection_CV.mp4)
-</p>  
+<p>
+  <a href="https://github.com/VinayakR12/TheifDetection_CV/releases/download/ComputerVisiom/Theif_Detection_CV.mp4"><b>🎬 Watch the Video</b></a>
+</p>
 
 ---  
 
